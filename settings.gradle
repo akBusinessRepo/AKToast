@@ -1,0 +1,3 @@
+include ':AKToast'
+include ':app'
+rootProject.name = "AKMessage"
